@@ -1,6 +1,6 @@
 
 // 동물 클래스
-class Animal{
+abstract class Animal{
     // field
     String name;
     int age;
@@ -19,9 +19,7 @@ class Animal{
     public void eat() {
         System.out.println("Sound of feeding");
     }
-    public void sound() {
-        System.out.println("이 동물이 소리를 냅니다.");
-    }
+    abstract public void sound();
 }
 
 class Dog extends Animal {
@@ -48,6 +46,10 @@ class Dog extends Animal {
     @Override
     public void sound() {
         System.out.println("멍멍");
+    }
+
+    void wagTail() {
+        System.out.println("꼬리를 흔든다");
     }
 }
 
@@ -89,6 +91,7 @@ public class OOPBasic {
         dog.eat();
         System.out.println("이 동물은 "+ dog.name+ " 입니다.");
 
-
+        Dog dog1 = (Dog) dog;
+        dog1.wagTail();
     }
 }
