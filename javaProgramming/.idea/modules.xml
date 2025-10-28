@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Practice0910/Practice0910.iml" filepath="$PROJECT_DIR$/Practice0910/Practice0910.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Practice0915/Practice0915.iml" filepath="$PROJECT_DIR$/Practice0915/Practice0915.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Practice0917/Practice0917.iml" filepath="$PROJECT_DIR$/Practice0917/Practice0917.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Practice0922/Practice0922.iml" filepath="$PROJECT_DIR$/Practice0922/Practice0922.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Practice0924/Practice0924.iml" filepath="$PROJECT_DIR$/Practice0924/Practice0924.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Practice0929/Practice0929.iml" filepath="$PROJECT_DIR$/Practice0929/Practice0929.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Practice1001/Practice1001.iml" filepath="$PROJECT_DIR$/Practice1001/Practice1001.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Practice1013/Practice1013.iml" filepath="$PROJECT_DIR$/Practice1013/Practice1013.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Practice1015/Practice1015.iml" filepath="$PROJECT_DIR$/Practice1015/Practice1015.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayNStr/ArrayNStr.iml" filepath="$PROJECT_DIR$/ArrayNStr/ArrayNStr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasicInOutput/BasicInOutput.iml" filepath="$PROJECT_DIR$/BasicInOutput/BasicInOutput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasicOOP/BasicOOP.iml" filepath="$PROJECT_DIR$/BasicOOP/BasicOOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContinusOOPProject/ContinusOOPProject.iml" filepath="$PROJECT_DIR$/ContinusOOPProject/ContinusOOPProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodNCodeStruct/MethodNCodeStruct.iml" filepath="$PROJECT_DIR$/MethodNCodeStruct/MethodNCodeStruct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controlLoop/controlLoop.iml" filepath="$PROJECT_DIR$/controlLoop/controlLoop.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javaProgramming.iml" filepath="$PROJECT_DIR$/.idea/javaProgramming.iml" />
     </modules>
   </component>
