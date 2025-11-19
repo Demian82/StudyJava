@@ -5,8 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/ArrayNStr/ArrayNStr.iml" filepath="$PROJECT_DIR$/ArrayNStr/ArrayNStr.iml" />
       <module fileurl="file://$PROJECT_DIR$/BasicInOutput/BasicInOutput.iml" filepath="$PROJECT_DIR$/BasicInOutput/BasicInOutput.iml" />
       <module fileurl="file://$PROJECT_DIR$/BasicOOP/BasicOOP.iml" filepath="$PROJECT_DIR$/BasicOOP/BasicOOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CafeKiosk/CafeKiosk.iml" filepath="$PROJECT_DIR$/CafeKiosk/CafeKiosk.iml" />
       <module fileurl="file://$PROJECT_DIR$/ContinusOOPProject/ContinusOOPProject.iml" filepath="$PROJECT_DIR$/ContinusOOPProject/ContinusOOPProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/MethodNCodeStruct/MethodNCodeStruct.iml" filepath="$PROJECT_DIR$/MethodNCodeStruct/MethodNCodeStruct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeInterface/PracticeInterface.iml" filepath="$PROJECT_DIR$/PracticeInterface/PracticeInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/controlLoop/controlLoop.iml" filepath="$PROJECT_DIR$/controlLoop/controlLoop.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javaProgramming.iml" filepath="$PROJECT_DIR$/.idea/javaProgramming.iml" />
     </modules>

@@ -70,7 +70,7 @@ class Cat extends Animal {
         return name;
     }
 
-    public void rub() {
+    void rub() {
         System.out.println("고양이가 문지릅니다.");
     }
 
@@ -90,8 +90,12 @@ public class OOPBasic {
         dog.sound();
         dog.eat();
         System.out.println("이 동물은 "+ dog.name+ " 입니다.");
+        cat.showInfo();
+        cat.sound();
+        cat.rub();
 
         Dog dog1 = (Dog) dog;
         dog1.wagTail();
+        dog1.eat();
     }
 }
