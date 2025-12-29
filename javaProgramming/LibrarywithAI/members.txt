@@ -1,0 +1,5 @@
+memberId,name,contact,loanedBookIds
+M003,박영희,010-5555-6666,
+M002,김철수,010-3333-4444,B003
+M001,홍길동,010-1111-2222,B001;B004
+memberId,name,contact,loanedBookIds

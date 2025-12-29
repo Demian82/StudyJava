@@ -1,0 +1,6 @@
+memberId,name,contact,loanedBookIds
+M004,Chesed,010-7777-8888,
+M003,Bina,010-5555-6666,
+M002,Hokma,010-1111-2222,
+M001,Kether,010-3333-4444,
+M005,Gebura,010-9999-0000,

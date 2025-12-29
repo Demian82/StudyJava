@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/javaProgramming/ArrayNStr/ArrayNStr.iml" filepath="$PROJECT_DIR$/javaProgramming/ArrayNStr/ArrayNStr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaProgramming/BasicInOutput/BasicInOutput.iml" filepath="$PROJECT_DIR$/javaProgramming/BasicInOutput/BasicInOutput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaProgramming/BasicOOP/BasicOOP.iml" filepath="$PROJECT_DIR$/javaProgramming/BasicOOP/BasicOOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaProgramming/CafeKiosk/CafeKiosk.iml" filepath="$PROJECT_DIR$/javaProgramming/CafeKiosk/CafeKiosk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaProgramming/CollectionFrameWrk/CollectionFrameWrk.iml" filepath="$PROJECT_DIR$/javaProgramming/CollectionFrameWrk/CollectionFrameWrk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaProgramming/ContinusOOPProject/ContinusOOPProject.iml" filepath="$PROJECT_DIR$/javaProgramming/ContinusOOPProject/ContinusOOPProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaProgramming/Cpp2Java/Cpp2Java.iml" filepath="$PROJECT_DIR$/javaProgramming/Cpp2Java/Cpp2Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaProgramming/GenericPractice3/GenericPractice3.iml" filepath="$PROJECT_DIR$/javaProgramming/GenericPractice3/GenericPractice3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaProgramming/HW_Library_5763254/HW_Library_5763254.iml" filepath="$PROJECT_DIR$/javaProgramming/HW_Library_5763254/HW_Library_5763254.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaProgramming/KindOfGen/KindOfGen.iml" filepath="$PROJECT_DIR$/javaProgramming/KindOfGen/KindOfGen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaProgramming/LibrarywithAI/LibrarywithAI.iml" filepath="$PROJECT_DIR$/javaProgramming/LibrarywithAI/LibrarywithAI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaProgramming/MethodNCodeStruct/MethodNCodeStruct.iml" filepath="$PROJECT_DIR$/javaProgramming/MethodNCodeStruct/MethodNCodeStruct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaProgramming/MidOOP/MidOOP.iml" filepath="$PROJECT_DIR$/javaProgramming/MidOOP/MidOOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progammers/PCCE_1/PCCE_1.iml" filepath="$PROJECT_DIR$/progammers/PCCE_1/PCCE_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progammers/PCCE_2/PCCE_2.iml" filepath="$PROJECT_DIR$/progammers/PCCE_2/PCCE_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progammers/PCCE_3/PCCE_3.iml" filepath="$PROJECT_DIR$/progammers/PCCE_3/PCCE_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progammers/PCCE_4/PCCE_4.iml" filepath="$PROJECT_DIR$/progammers/PCCE_4/PCCE_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progammers/PCCE_5/PCCE_5.iml" filepath="$PROJECT_DIR$/progammers/PCCE_5/PCCE_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progammers/PCCE_6/PCCE_6.iml" filepath="$PROJECT_DIR$/progammers/PCCE_6/PCCE_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaProgramming/PracaticeGeneric/PracaticeGeneric.iml" filepath="$PROJECT_DIR$/javaProgramming/PracaticeGeneric/PracaticeGeneric.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaProgramming/PracticeInterface/PracticeInterface.iml" filepath="$PROJECT_DIR$/javaProgramming/PracticeInterface/PracticeInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaProgramming/controlLoop/controlLoop.iml" filepath="$PROJECT_DIR$/javaProgramming/controlLoop/controlLoop.iml" />
+    </modules>
+  </component>
+</project>

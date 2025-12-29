@@ -1,0 +1,6 @@
+bookId,title,author,publicationYear,isLoaned
+B001,Java의 정석,남궁성,2018,true
+B004,클린 코드,로버트 C 마틴,2010,false
+B005,새로운 책,작가1,2024,true
+B002,Effective Java,조슈아 블로흐,2019,false
+B003,Spring Boot 가이드,김스프링,2023,true
